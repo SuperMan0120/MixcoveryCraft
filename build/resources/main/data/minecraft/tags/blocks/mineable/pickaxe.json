@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mixcoverycraft:tin_ore",
+    "mixcoverycraft:tin_block",
+    "mixcoverycraft:bronze_block",
+    "mixcoverycraft:alloy_furnace",
+    "mixcoverycraft:titanium_ore",
+    "mixcoverycraft:titanium_block",
+    "mixcoverycraft:refiner",
+    "mixcoverycraft:dna_mixer"
+  ]
+}

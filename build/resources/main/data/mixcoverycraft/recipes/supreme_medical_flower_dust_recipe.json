@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mixcoverycraft:supreme_medical_flower"
+    }
+  ],
+  "result": {
+    "item": "mixcoverycraft:supreme_medical_dust",
+    "count": 1
+  }
+}

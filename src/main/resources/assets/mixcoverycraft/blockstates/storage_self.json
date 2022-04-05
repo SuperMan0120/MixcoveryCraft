@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mixcoverycraft:block/storage_self"
+    }
+  }
+}

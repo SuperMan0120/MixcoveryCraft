@@ -1,0 +1,44 @@
+{
+  "_fv": 24,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Buthering",
+    "type": "WEAPON",
+    "rarity": "RARE",
+    "minLevel": 1,
+    "maxLevel": 5,
+    "damageModifier": 0,
+    "compatibleEnchantments": [],
+    "compatibleItems": [
+      {
+        "value": "CUSTOM:BronzeSword"
+      },
+      {
+        "value": "CUSTOM:NetherSword"
+      },
+      {
+        "value": "Items.WOODEN_SWORD"
+      },
+      {
+        "value": "Items.STONE_SWORD"
+      },
+      {
+        "value": "Items.IRON_SWORD"
+      },
+      {
+        "value": "Items.GOLDEN_SWORD"
+      },
+      {
+        "value": "Items.DIAMOND_SWORD"
+      },
+      {
+        "value": "Items.NETHERITE_SWORD"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

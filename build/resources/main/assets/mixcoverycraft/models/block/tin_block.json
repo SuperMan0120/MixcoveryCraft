@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mixcoverycraft:blocks/tin_ore_block",
+    "particle": "mixcoverycraft:blocks/tin_ore_block"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "mixcoverycraft:saw"
+    },
+    "1": {
+      "item": "mixcoverycraft:scissor"
+    },
+    "2": {
+      "item": "mixcoverycraft:hammer"
+    },
+    "3": {
+      "tag": "planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:crafting_table",
+    "count": 1
+  }
+}

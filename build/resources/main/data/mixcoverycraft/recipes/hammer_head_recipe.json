@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:clay_ball"
+    },
+    "1": {
+      "item": "minecraft:clay_ball"
+    },
+    "2": {
+      "item": "minecraft:clay_ball"
+    },
+    "3": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "mixcoverycraft:hammerhead",
+    "count": 1
+  }
+}

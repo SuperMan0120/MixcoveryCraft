@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mixcoverycraft:presser"
+    },
+    {
+      "item": "mixcoverycraft:wooden_basket"
+    },
+    {
+      "item": "mixcoverycraft:cast"
+    }
+  ],
+  "result": {
+    "item": "mixcoverycraft:basket_cast",
+    "count": 1
+  }
+}

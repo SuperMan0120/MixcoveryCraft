@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mixcoverycraft:block/dna_mixer"
+    },
+    "facing=east": {
+      "model": "mixcoverycraft:block/dna_mixer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mixcoverycraft:block/dna_mixer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mixcoverycraft:block/dna_mixer",
+      "y": 270
+    }
+  }
+}

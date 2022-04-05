@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "mixcoverycraft:scissor_blade"
+    },
+    "3": {
+      "item": "mixcoverycraft:scissor_blade"
+    }
+  },
+  "result": {
+    "item": "mixcoverycraft:scissor",
+    "count": 1
+  }
+}

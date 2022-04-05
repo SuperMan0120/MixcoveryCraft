@@ -1,0 +1,50 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "flinthachet",
+    "customModelName": "Normal",
+    "name": "Flint Hachet",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MixcoveryCraftItems"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 20,
+    "blocksAffected": [
+      {
+        "value": "Blocks.LOG#0"
+      },
+      {
+        "value": "Blocks.LOG#1"
+      },
+      {
+        "value": "Blocks.LOG#2"
+      },
+      {
+        "value": "Blocks.LOG#3"
+      },
+      {
+        "value": "Blocks.LOG2#0"
+      },
+      {
+        "value": "Blocks.LOG2#1"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.FLINT"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

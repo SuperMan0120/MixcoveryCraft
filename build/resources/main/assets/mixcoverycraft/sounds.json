@@ -1,0 +1,12 @@
+{
+  "none": {
+    "category": "neutral",
+    "subtitle": "subtitles.none",
+    "sounds": [
+      {
+        "name": "mixcoverycraft:none",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mixcoverycraft:bronze_ingot"
+    },
+    "1": {
+      "item": "mixcoverycraft:bronze_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mixcoverycraft:bronze_hoe",
+    "count": 1
+  }
+}

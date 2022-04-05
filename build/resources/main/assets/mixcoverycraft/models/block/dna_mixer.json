@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mixcoverycraft:blocks/ab",
+    "up": "mixcoverycraft:blocks/a",
+    "north": "mixcoverycraft:blocks/ab",
+    "east": "mixcoverycraft:blocks/ab",
+    "south": "mixcoverycraft:blocks/ab",
+    "west": "mixcoverycraft:blocks/ab",
+    "particle": "mixcoverycraft:blocks/ab"
+  }
+}

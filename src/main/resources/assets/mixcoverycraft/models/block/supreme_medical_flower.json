@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mixcoverycraft:blocks/suprememedicalflower",
+    "particle": "mixcoverycraft:blocks/suprememedicalflower"
+  }
+}

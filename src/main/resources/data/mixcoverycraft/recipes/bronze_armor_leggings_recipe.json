@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "mixcoverycraft:bronze_ingot"
+    },
+    "1": {
+      "item": "mixcoverycraft:bronze_ingot"
+    },
+    "2": {
+      "item": "mixcoverycraft:bronze_ingot"
+    },
+    "3": {
+      "item": "mixcoverycraft:bronze_ingot"
+    },
+    "5": {
+      "item": "mixcoverycraft:bronze_ingot"
+    },
+    "6": {
+      "item": "mixcoverycraft:bronze_ingot"
+    },
+    "8": {
+      "item": "mixcoverycraft:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "mixcoverycraft:bronze_armor_leggings",
+    "count": 1
+  }
+}

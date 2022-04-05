@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mixcoverycraft:molten_iron"
+  },
+  "addition": {
+    "item": "mixcoverycraft:cast"
+  },
+  "result": {
+    "item": "mixcoverycraft:iron_plate"
+  }
+}

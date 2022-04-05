@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "minecraft:gunpowder"
+    },
+    "2": {
+      "tag": "sands"
+    }
+  },
+  "result": {
+    "item": "mixcoverycraft:dynamite",
+    "count": 1
+  }
+}

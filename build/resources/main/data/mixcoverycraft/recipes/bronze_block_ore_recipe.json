@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mixcoverycraft:bronze_block"
+    }
+  ],
+  "result": {
+    "item": "mixcoverycraft:bronze_ingot",
+    "count": 9
+  }
+}

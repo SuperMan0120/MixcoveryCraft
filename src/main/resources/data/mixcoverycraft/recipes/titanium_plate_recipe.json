@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mixcoverycraft:presser"
+    },
+    {
+      "item": "mixcoverycraft:cast"
+    },
+    {
+      "item": "mixcoverycraft:pristine_titanium_ingot"
+    }
+  ],
+  "result": {
+    "item": "mixcoverycraft:titanium_plate",
+    "count": 1
+  }
+}

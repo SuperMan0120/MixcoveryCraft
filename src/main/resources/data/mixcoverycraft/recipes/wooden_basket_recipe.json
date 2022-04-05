@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "tag": "planks"
+    },
+    "4": {
+      "tag": "planks"
+    },
+    "5": {
+      "tag": "planks"
+    }
+  },
+  "result": {
+    "item": "mixcoverycraft:wooden_basket",
+    "count": 1
+  }
+}

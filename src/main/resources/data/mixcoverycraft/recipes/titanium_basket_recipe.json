@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mixcoverycraft:presser"
+    },
+    {
+      "item": "mixcoverycraft:titanium_plate"
+    },
+    {
+      "item": "mixcoverycraft:basket_cast"
+    }
+  ],
+  "result": {
+    "item": "mixcoverycraft:titanium_basket",
+    "count": 1
+  }
+}

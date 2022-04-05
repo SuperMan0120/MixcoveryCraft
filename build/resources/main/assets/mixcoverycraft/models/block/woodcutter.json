@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mixcoverycraft:blocks/woodcuttersides",
+    "up": "mixcoverycraft:blocks/woodcuttertop",
+    "north": "mixcoverycraft:blocks/woodcuttersides",
+    "east": "mixcoverycraft:blocks/woodcuttersides",
+    "south": "mixcoverycraft:blocks/woodcuttersides",
+    "west": "mixcoverycraft:blocks/woodcuttersides",
+    "particle": "mixcoverycraft:blocks/woodcuttersides"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:clay_ball"
+    },
+    "3": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "mixcoverycraft:scissor_blade",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "   ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "planks"
+    },
+    "1": {
+      "tag": "planks"
+    },
+    "2": {
+      "tag": "planks"
+    },
+    "6": {
+      "tag": "planks"
+    },
+    "7": {
+      "tag": "planks"
+    },
+    "8": {
+      "tag": "planks"
+    }
+  },
+  "result": {
+    "item": "mixcoverycraft:storage_self",
+    "count": 1
+  }
+}

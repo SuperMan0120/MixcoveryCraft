@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Mixcovery Craft Items",
+    "icon": {
+      "value": "Items.WARPED_FUNGUS_ON_A_STICK"
+    },
+    "showSearch": true
+  }
+}
